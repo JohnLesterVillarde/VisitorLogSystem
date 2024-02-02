@@ -84,7 +84,7 @@ public class SearchByDateServlet extends HttpServlet {
 				visitor.setDateTimeEntered(dateTimeEnter);
 				visitor.setDateTimeExited(dateTimeExit);
 				
-				visitorList.push(visitor);
+				visitorList.add(visitor);
 			}
 
 		} catch (SQLException e) {

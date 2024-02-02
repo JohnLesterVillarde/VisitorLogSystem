@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css" />
     <title>Homepage</title>
   </head>
-  <body >
+  <body class="body1">
     <header>
       <p>BCC VISITOR LOG SYSTEM</p>
       <img src="image/BCClogo.png" id="logo" alt="Bago City College Logo" />

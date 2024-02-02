@@ -316,7 +316,7 @@
             if(storeAttribute instanceof LinkedList) {
             	LinkedList<Visitor> visitorList = (LinkedList<Visitor>) storeAttribute;
             		
-            	if(visitorList ==null && visitorList.isEmpty()) {
+            	if(visitorList == null && visitorList.isEmpty()) {
             		out.println("<p>" + "No Results Found " + "<p>");
             	}
             	
